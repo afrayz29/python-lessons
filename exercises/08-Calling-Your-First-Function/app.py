@@ -3,3 +3,6 @@ def is_odd(my_number):
 
 
 # your code here
+print(is_odd(45345))
+
+

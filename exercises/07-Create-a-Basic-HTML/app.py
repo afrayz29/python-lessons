@@ -9,3 +9,5 @@ h = '<body>'
 
 # DON'T CHANGE THE CODE ABOVE
 
+html_document = (e,c,g,a,h,f,d,b)
+print (html_document)
